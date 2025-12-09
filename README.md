@@ -24,7 +24,7 @@ Aquí es donde paso mi tiempo aprendiendo y experimentando:
 
 <!--RECENT_ACTIVITY:start-->
 
-<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
