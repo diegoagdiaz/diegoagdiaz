@@ -21,17 +21,10 @@ Aquí es donde paso mi tiempo aprendiendo y experimentando:
 ---
 
 ### :zap:Actividad reciente
-\### :zap: Actividad reciente
 
-\<!--START\_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-\<!--END\_SECTION:activity-->
-
-
-
-\<!--RECENT\_ACTIVITY:start-->
-
-\<!--RECENT\_ACTIVITY:last\_update-->
+<!--RECENT_ACTIVITY:last\_update-->
 
 ---
 
