@@ -19,6 +19,11 @@ Aquí es donde paso mi tiempo aprendiendo y experimentando:
 * **Intereses Técnicos:** Emulación de hardware, servidores multimedia (Plex), y Android.
 
 ---
+### :zap:Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+---
 
 ### ⚡ Datos Curiosos & Hobbies
 No todo es código. Cuando no estoy programando, probablemente me encuentres:
